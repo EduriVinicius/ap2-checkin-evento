@@ -71,25 +71,15 @@ Para testar a leitura dos ingressos, permita o acesso à câmera quando solicita
 
 ## Capturas de tela
 
-### 1. Ingresso gerado
+Acesse a pasta biblioteca navegue até a pasta prints. 
 
-Exibe o ingresso com imagem, nome, e-mail e QR Code.
-
-![Ingresso gerado](prints/ingresso-gerado.png)
-
-### 2. Leitura do QR Code
-
-Exibe a tela de leitura utilizando a câmera do dispositivo.
-
-![Leitura do QR Code](prints/leitura-qr-code.png)
-
-### 3. Check-in confirmado
-
-Demonstra a confirmação de um check-in válido.
-
-![Check-in confirmado](prints/checkin-confirmado.png)
-
-## Testes realizados
+*camera_captura.png
+*check_ja_realizado.png
+*confirmacao_participante.png
+*gerando_participante.png
+*qrcode_invalido.png
+*qrcode_participante_gerado.png
+*tela_check.png
 
 Foram testados os seguintes cenários:
 
